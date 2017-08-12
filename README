@@ -1,0 +1,10 @@
+# HMM learn examples
+
+Want to learn sequences of data, possibly using tensorflow.
+
+## Environment
+Will have a requirements.txt with required libraries to install. 
+
+$ pip install -r requirements.txt 
+
+should do the trick.
